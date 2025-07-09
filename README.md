@@ -54,7 +54,7 @@ REST APIs, Agile, Power BI, VS Code
 
 ### 🏆 Projects
 
-- **[LearnByDoing](#)**  
+- **LearnByDoing**  
   Full-stack, collaborative learning platform (React, Node.js, MongoDB, real-time features)
 
 - **Kidney Stone Detection**  
